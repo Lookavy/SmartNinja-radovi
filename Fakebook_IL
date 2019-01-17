@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+<html>
+<head>
+<body>
+
+<h1>FAKEBOOK</h1>
+<h2>Since this is "extremly" professional site, we shall call it <strong>Failbook</strong>.</h2>
+
+<hr>
+
+
+<h2><font color="red">Iva Lukin</font></h2>
+<br>
+This is me:
+<br>
+<img src="‪selfie.jpg" alt="Iva Lukin">
+<br>
+<br>
+<button>Budi mi prijatelj</button>
+<br>
+<hr>
+
+<strong>From: </strong>Splita
+<br>
+<br>
+<strong>Lives in: </strong>Zagrebu
+<br>
+<br>
+<strong>Interests: </strong>music, pole dance, digital
+<br>
+<br>
+<strong>Favourite quote: </strong><i>Neki ljudi vide stvari kao sto jesu i pitaju se "Zasto?"
+    Ja snivam o stvarima koje nisu nikada postojale i pitam se "Zasto ne?".</i>
+<br>
+<br>
+<h3><font color="red">That's all, folks!</font></h3>
+
+For more, visit my FB profile:<a href="https://www.facebook.com/Lookin.Iva#_">Lookin Iva profile</a>
+</body>
+</head>
+</html>
